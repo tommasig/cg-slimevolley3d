@@ -1,0 +1,10 @@
+-- shadow mapping
+-- texture sugli slime
+-- convertire quante piu' texture e' possibile in jpeg
+-- sistemare la gerarchia di directory del programma
+-- capire perche' il prog deve essere lanciato da terminale, altrimenti non trova le texture (PATH ??)
+-- schermata finale con ringraziamenti (!!!) (=> Mitch)
+
+....................................
+Known bugs:
+- per attivare la console e' necessario che non sia premuto nessun tasto
